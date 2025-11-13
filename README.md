@@ -11,25 +11,19 @@ To develop a python control code to move the mobilerobot along the predefined pa
 
 ## Procedure
 
-Step1:
+Step1:Initiate the Mobile Robot.
 
-<br/>
 
-Step2:
+Step2:Connect your PC with Mobile robot through WIFI.
 
-<br/>
 
-Step3:
+Step3:Open batter_level.py file and check the battery.
 
-<br/>
 
-Step4:
+Step4:Open the other python file and program the movement of the robot using python.
 
-<br/>
 
-Step5:
-
-<br/>
+Step5:Execute the python program and record thr movement.
 
 ## Program
 ```python
@@ -135,7 +129,6 @@ if _name_ == '_main_':
 
     ep_robot.close()
 ```
-
 ## MobileRobot Movement Image:
 
 ![robo](./img/robomaster.png)
@@ -145,20 +138,22 @@ if _name_ == '_main_':
 ![WhatsApp Image 2025-11-13 at 14 17 57_2f9cffeb](https://github.com/user-attachments/assets/64ef6622-ff06-419a-8d1c-985976e2b7d6)
 
 
+
+
+
+
+
 ## MobileRobot Movement Video:
 
 Upload your video in Youtube and paste your video-id here
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+https://youtube.com/shorts/tcU90TxALJo?si=Bt-Qb1rKfe2QyHTr
 
 
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
 
-
-<br/>
-<br/>
 
 ```
 Mobile Robotics Laboratory
